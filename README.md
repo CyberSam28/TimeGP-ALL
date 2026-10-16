@@ -1,3 +1,7 @@
+Ecco il README.md finale, aggiornato con i link in modalità raw (così quando clicchi parte direttamente il download senza passare per la pagina di GitHub) e con la splendida tabella di anteprima visiva per Android e macOS!
+
+Copia e incolla tutto questo blocco nel tuo README.md:
+
 <div align="center">
 
   # 🏁 TimeGP
@@ -7,10 +11,10 @@
 
   <br>
 
-  <!-- PULSANTI RAPIDI IN CIMA -->
+  <!-- PULSANTI RAPIDI IN CIMA (Download Diretto) -->
   [![Website](https://img.shields.io/badge/🌐_Sito_Web-Live_Online-E10600?style=for-the-badge)](https://timegp.pages.dev)
-  [![Android APK](https://img.shields.io/badge/🤖_Android-Scarica_Subito_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/CyberSam28/TimeGP-ALL/blob/main/TimeGP-Android.apk)
-  [![macOS App](https://img.shields.io/badge/🍎_macOS-Scarica_Subito_Mac-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/CyberSam28/TimeGP-ALL/blob/main/TimeGP-Mac.zip)
+  [![Android APK](https://img.shields.io/badge/🤖_Android-Download_Diretto_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/CyberSam28/TimeGP-ALL/raw/main/TimeGP-Android.apk)
+  [![macOS App](https://img.shields.io/badge/🍎_macOS-Download_Diretto_Mac-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/CyberSam28/TimeGP-ALL/raw/main/TimeGP-Mac.zip)
 
   <br>
 
@@ -29,6 +33,31 @@ Dimentica le ricerche infinite per capire a che ora iniziano le qualifiche o la 
 
 ---
 
+## 📦 Anteprima Download Rapido
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🤖 Android APK</h3>
+        <p><i>App mobile per F1 & MotoGP</i></p>
+        <a href="https://github.com/CyberSam28/TimeGP-ALL/raw/main/TimeGP-Android.apk">
+          <img src="https://img.shields.io/badge/📥_Scarica_Subito_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK Diretto">
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h3>🍎 macOS App</h3>
+        <p><i>Applicazione desktop per Mac</i></p>
+        <a href="https://github.com/CyberSam28/TimeGP-ALL/raw/main/TimeGP-Mac.zip">
+          <img src="https://img.shields.io/badge/📥_Scarica_Subito_Mac-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download Mac Diretto">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## ✨ Caratteristiche Principali
 
 * 🏎️ **Dual Motorsport Hub:** Passa istantaneamente dal calendario **Formula 1** a quello **MotoGP** con un solo clic.
@@ -39,7 +68,7 @@ Dimentica le ricerche infinite per capire a che ora iniziano le qualifiche o la 
 
 ---
 
-## 🌐 Ecosistema TimeGP & Download
+## 🌐 Ecosistema TimeGP
 
 TimeGP è progettato per seguirti ovunque. Scegli la tua piattaforma preferita:
 
@@ -53,32 +82,6 @@ L'esperienza completa di **TimeGP** direttamente nel tuo browser, senza alcuna i
 <p align="left">
   <a href="https://timegp.pages.dev">
     <img src="https://img.shields.io/badge/👉_Apri_TimeGP_Web_App-timegp.pages.dev-E10600?style=for-the-badge" alt="Apri TimeGP Web App">
-  </a>
-</p>
-
----
-
-### 📱 2. App Android (APK)
-Porta il calendario di F1 e MotoGP sempre in tasca con l'applicazione ufficiale per Android.
-
-* **📥 Come scaricarla:** Clicca sul pulsante qui sotto per scaricare l'APK direttamente dalla pagina principale del repository:
-  
-<p align="left">
-  <a href="https://github.com/CyberSam28/TimeGP-ALL/blob/main/TimeGP-Android.apk">
-    <img src="https://img.shields.io/badge/📥_Clicca_qui_per_scaricare_l'APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Scarica APK">
-  </a>
-</p>
-
----
-
-### 🍎 3. Versione macOS
-Per chi segue le gare o lavora dalla scrivania, TimeGP offre un'applicazione dedicata per l'ecosistema Apple.
-
-* **📥 Come scaricarla:** Clicca sul pulsante qui sotto per scaricare il pacchetto per Mac direttamente dalla pagina principale del repository:
-
-<p align="left">
-  <a href="https://github.com/CyberSam28/TimeGP-ALL/blob/main/TimeGP-Mac.zip">
-    <img src="https://img.shields.io/badge/📥_Clicca_qui_per_scaricare_per_Mac-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Scarica per macOS">
   </a>
 </p>
 
