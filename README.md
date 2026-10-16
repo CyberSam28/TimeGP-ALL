@@ -78,7 +78,7 @@ Per chi segue le gare o lavora dalla scrivania, TimeGP offre un'applicazione ded
 
 <p align="left">
   <a href="./TimeGP-macOS.zip">
-    <img src="https://img.shields.io/badge/📥_Clicca_qui_per_scaricare_per_Mac-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Scarica per macOS">
+    <img src="https://github.com/CyberSam28/TimeGP-ALL/blob/main/TimeGP-Mac.zip" alt="Scarica per macOS">
   </a>
 </p>
 
