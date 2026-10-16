@@ -9,8 +9,8 @@
 
   <!-- PULSANTI RAPIDI IN CIMA -->
   [![Website](https://img.shields.io/badge/🌐_Sito_Web-Live_Online-E10600?style=for-the-badge)](https://timegp.pages.dev)
-  [![Android APK](https://img.shields.io/badge/🤖_Android-Scarica_Subito_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](./app-release.apk)
-  [![macOS App](https://img.shields.io/badge/🍎_macOS-Scarica_Subito_Mac-000000?style=for-the-badge&logo=apple&logoColor=white)]([./TimeGP-macOS.zip](https://github.com/CyberSam28/TimeGP-ALL/blob/main/TimeGP-Mac.zip))
+  [![Android APK](https://img.shields.io/badge/🤖_Android-Scarica_Subito_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/CyberSam28/TimeGP-ALL/blob/main/TimeGP-Android.apk)
+  [![macOS App](https://img.shields.io/badge/🍎_macOS-Scarica_Subito_Mac-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/CyberSam28/TimeGP-ALL/blob/main/TimeGP-Mac.zip)
 
   <br>
 
@@ -25,7 +25,7 @@
 
 **TimeGP** nasce per chi vive di motorsport e non vuole perdersi nemmeno un semaforo verde. Che si tratti delle quattro ruote della **Formula 1** o dell'adrenalina della **MotoGP**, TimeGP raccoglie e organizza l'intera stagione in un'interfaccia pulita, reattiva e immediata.
 
-Dimentica le ricerche infinite per capire a che ora iniziano le qualifiche o la Sprint Race: con **TimeGP** la lingua e il fuso orario non sono più un problema. Apri la piattaforma dal browser, dallo smartphone o dal tuo Mac per avere subito il quadro completo del weekend di gara, sincronizzato automaticamente con il tuo orario locale e sempre disponibile anche **offline**.
+Dimentica le ricerche infinite per capire a che ora iniziano le qualifiche o la Sprint Race: con **TimeGP** la lingua e il fuso orario non sono un problema. Apri la piattaforma dal browser, dallo smartphone o dal tuo Mac per avere subito il quadro completo del weekend di gara, sincronizzato automaticamente con il tuo orario locale e sempre disponibile anche **offline**.
 
 ---
 
@@ -61,11 +61,11 @@ L'esperienza completa di **TimeGP** direttamente nel tuo browser, senza alcuna i
 ### 📱 2. App Android (APK)
 Porta il calendario di F1 e MotoGP sempre in tasca con l'applicazione ufficiale per Android.
 
-* **📥 Come scaricarla:** Clicca direttamente sul link qui sotto o scarica il file `.apk` che vedi nella cartella principale di questo repository:
+* **📥 Come scaricarla:** Clicca sul pulsante qui sotto per scaricare l'APK direttamente dalla pagina principale del repository:
   
 <p align="left">
-  <a href="./app-release.apk">
-    <img src="[https://img.shields.io/badge/📥_Clicca_qui_per_scaricare_l'APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white](https://github.com/CyberSam28/TimeGP-ALL/blob/main/TimeGP-Android.apk)" alt="Scarica APK">
+  <a href="https://github.com/CyberSam28/TimeGP-ALL/blob/main/TimeGP-Android.apk">
+    <img src="https://img.shields.io/badge/📥_Clicca_qui_per_scaricare_l'APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Scarica APK">
   </a>
 </p>
 
@@ -74,11 +74,11 @@ Porta il calendario di F1 e MotoGP sempre in tasca con l'applicazione ufficiale 
 ### 🍎 3. Versione macOS
 Per chi segue le gare o lavora dalla scrivania, TimeGP offre un'applicazione dedicata per l'ecosistema Apple.
 
-* **📥 Come scaricarla:** Clicca sul link qui sotto o scarica il pacchetto per Mac direttamente dalla cartella principale del repository:
+* **📥 Come scaricarla:** Clicca sul pulsante qui sotto per scaricare il pacchetto per Mac direttamente dalla pagina principale del repository:
 
 <p align="left">
-  <a href="./TimeGP-macOS.zip">
-    <img src="https://github.com/CyberSam28/TimeGP-ALL/blob/main/TimeGP-Mac.zip" alt="Scarica per macOS">
+  <a href="https://github.com/CyberSam28/TimeGP-ALL/blob/main/TimeGP-Mac.zip">
+    <img src="https://img.shields.io/badge/📥_Clicca_qui_per_scaricare_per_Mac-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Scarica per macOS">
   </a>
 </p>
 
