@@ -1,9 +1,3 @@
-Hai ragione al 100%: i Widget sono la vera killer feature e la comodità definitiva per chi non vuole perdere neanche un secondo di pista. Meritano di essere messi in primissimo piano.
-
-Ho rielaborato il README dando un risalto pazzesco ai widget: ora dominano la parte alta con una sezione dedicata e d'impatto, spiegando subito perché sono utilissimi (countdown in tempo reale senza dover aprire l'app).
-
-Copia e incolla questo blocco definitivo nel tuo README.md:
-
 <div align="center">
 
   # 🏁 TimeGP
