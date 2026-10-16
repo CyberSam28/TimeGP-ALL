@@ -1,7 +1,3 @@
-Ecco il README.md finale, aggiornato con i link in modalità raw (così quando clicchi parte direttamente il download senza passare per la pagina di GitHub) e con la splendida tabella di anteprima visiva per Android e macOS!
-
-Copia e incolla tutto questo blocco nel tuo README.md:
-
 <div align="center">
 
   # 🏁 TimeGP
