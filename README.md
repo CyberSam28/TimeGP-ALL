@@ -10,7 +10,7 @@
   <!-- PULSANTI RAPIDI IN CIMA -->
   [![Website](https://img.shields.io/badge/🌐_Sito_Web-Live_Online-E10600?style=for-the-badge)](https://timegp.pages.dev)
   [![Android APK](https://img.shields.io/badge/🤖_Android-Scarica_Subito_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](./app-release.apk)
-  [![macOS App](https://img.shields.io/badge/🍎_macOS-Scarica_Subito_Mac-000000?style=for-the-badge&logo=apple&logoColor=white)](./TimeGP-macOS.zip)
+  [![macOS App](https://img.shields.io/badge/🍎_macOS-Scarica_Subito_Mac-000000?style=for-the-badge&logo=apple&logoColor=white)]([./TimeGP-macOS.zip](https://github.com/CyberSam28/TimeGP-ALL/blob/main/TimeGP-Mac.zip))
 
   <br>
 
