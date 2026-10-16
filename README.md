@@ -65,7 +65,7 @@ Porta il calendario di F1 e MotoGP sempre in tasca con l'applicazione ufficiale 
   
 <p align="left">
   <a href="./app-release.apk">
-    <img src="https://img.shields.io/badge/📥_Clicca_qui_per_scaricare_l'APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Scarica APK">
+    <img src="[https://img.shields.io/badge/📥_Clicca_qui_per_scaricare_l'APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white](https://github.com/CyberSam28/TimeGP-ALL/blob/main/TimeGP-Android.apk)" alt="Scarica APK">
   </a>
 </p>
 
